@@ -37,7 +37,7 @@ You are expected to be able to answer questions in these areas. Your responses c
 ## Instructions
 
 ### Task 1: Project Set Up
-
+- [x] Initial commit
 - [ ] Create a forked copy of this project
 - [ ] Add your team lead as collaborator on Github
 - [ ] Clone your OWN version of the repository (Not Lambda's by mistake!)
